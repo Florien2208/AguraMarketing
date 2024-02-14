@@ -52,7 +52,8 @@
     "zustand": "^4.4.7",
     "expo-notifications": "~0.20.1",
     "expo-splash-screen": "~0.20.5",
-    "expo-blur": "~12.4.1"
+    "expo-blur": "~12.4.1",
+    "expo-dev-client": "~2.4.12"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
